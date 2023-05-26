@@ -13,5 +13,6 @@ void kernel_main()
 {
     clearScreen(); // Clear screen before writing output
     printString("Hello World"); // Write "Hello World" to the screen.
+    printChar('A'); // Write "Hello World" to the screen.
 }
 
